@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mohammedXdev
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning api calls in Javascript 
+- 🌱 A new update: I've completed learning JavaScript and now the I am looking forward to learn node.js and build projects. 😃
 - 💞️ I’m looking to collaborate on X @sprco0l
 
 <!---
